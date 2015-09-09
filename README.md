@@ -1,4 +1,6 @@
 # teste
 teste
-ola schug
-opa e ae
+ola schug,
+opa e ae,
+curtindo a aula
+
